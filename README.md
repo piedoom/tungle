@@ -11,14 +11,15 @@ We'll be using Rails 5.0 and Postgresql.  Other stuff in the stack is yet to be 
 
 ## Goals
 
-- [] Create userblogs
-- [] add ability to like posts / reblog posts
-- [] rich text / markdown editor
-- [] user themes
-- [] API utilizing OAuth 2.0
-- [] Messages & inbox (probably should be consolidated somehow)
-- [] More stuff to come
+- [ ] Create userblogs
+- [ ] add ability to like posts / reblog posts
+- [ ] rich text / markdown editor
+- [ ] user themes
+- [ ] API utilizing OAuth 2.0
+- [ ] Messages & inbox (probably should be consolidated somehow)
+- [ ] More stuff to come
 
 ## Contributing
 
 Contributions are welcome.  Please try to keep code clean and quality before making a PR.
+
